@@ -38,4 +38,6 @@ When a PIN lock is set, the user has the ability to use biometric authentication
 
 <br/>
 
-<img src="../../assets/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="PigMe. app icon" height="40"/>
+<a href="https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id6444774571?uo=4">
+<img src="../../assets/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="PigMe. AppStore Link" height="40"/>
+</a>
