@@ -2,5 +2,5 @@
 
 # PigMe.
 
-###### [English](pigme-app.github.io/en) 
-###### [Deutsch](pigme-app.github.io/de)
+###### [English](https://pigme-app.github.io/en/) 
+###### [Deutsch](https://pigme-app.github.io/de/)
