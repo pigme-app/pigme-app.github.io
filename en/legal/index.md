@@ -38,4 +38,4 @@ When a PIN lock is set, the user has the ability to use biometric authentication
 
 <br/>
 
-<img src="../../assets/Download_on_the_App_Store_Badge_DE_RGB_wht_092917.svg" alt="PigMe. app icon" height="40"/>
+<img src="../../assets/Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" alt="PigMe. app icon" height="40"/>
