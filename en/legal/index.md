@@ -36,3 +36,6 @@ Handling the In-App-Purchases is done by the AppStore StoreKit framework provide
 
 When a PIN lock is set, the user has the ability to use biometric authentication (TouchID/FaceID) to enable quicker access to the app. The authentication is handled through frameworks of the operating system (iOS), provided by Apple, whereby no biometric data is available to or stored by the app itself. It requires the activation in the iPhone's gerneral settings and an initial acceptance at the app's first biometric authentication request. The user can, at any times, opt-out of the biometric authentication either inside the app's settings or revoke the app's ability to use biometric authentication completely inside the iPhone's general settings. See the references for **[TouchID](https://support.apple.com/en-us/HT201371)** and **[FaceID](https://support.apple.com/en-us/HT208109)** for more information.
 
+<br/>
+
+<img src="../../assets/Download_on_the_App_Store_Badge_DE_RGB_wht_092917.svg" alt="PigMe. app icon" height="40"/>
