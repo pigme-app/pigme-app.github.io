@@ -2,4 +2,4 @@
 
 # Index DE
 
-###### [Impressum und Datenschutz](pigme-app.github.io/de/legal)
+###### [Impressum und Datenschutz](https://pigme-app.github.io/de/legal/)
