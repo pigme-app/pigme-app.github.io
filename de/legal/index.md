@@ -36,8 +36,5 @@ Die Bearbeitung von In-App-Käufen wird durch das von Apple bereitgestellte AppS
 
 Wird eine PIN-Sperre für die App verwendet, so hat der Nutzer ebenso die Möglichkeit der biometrischen Authentifizierung (TouchID/FaceID) für einen schnelleren Entsperrvorgang der App. Diese Authentifizierung wird duch von Apple bereitgestellte Frameworks des Betriebssystems (iOS) durchgeführt, wobei biometrische Daten von der App weder ausgelesen, noch gespeichert werden. Zur grundlegenden Bereitstellung dieser Funktionalität ist die Aktivierung durch den Nutzer innerhalb der iPhone-Systemeinstellungen, sowie eine App-spezifische Bestätigung erforderlich, wenn diese zum ersten Mal die Authentifizierung anfordert. Zu jeder Zeit kann der Nutzer die Funktionalität innerhalb der App-Einstellungen deaktivieren, oder dieser die systemseitige Erlaubnis innerhalb der iPhone-Systemeinstellungen entziehen. Siehe die Referenzen für **[TouchID](https://support.apple.com/de-de/HT201371)** oder **[FaceID](https://support.apple.com/de-de/HT208109)** für weiterführende Informationen.
 
-<br/>
+###### [English version](https://pigme-app.github.io/en/legal/)
 
-<a href="https://apps.apple.com/de/app/athlytic-ai-fitness-coach/id6444774571?uo=4">
-<img src="../../assets/Download_on_the_App_Store_Badge_DE_RGB_wht_092917.svg" alt="PigMe. AppStore Link" height="40"/>
-</a>
