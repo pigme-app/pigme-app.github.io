@@ -10,7 +10,7 @@ Leipziger Str. 306
 Germany  
 
 Phone: +49 152 22426479  
-E-Mail: pigme@petrolino.app 
+E-Mail: pigme.app@outlook.com
 
 ### Information acc. §27a UStG (DE)
 
