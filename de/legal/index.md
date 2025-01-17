@@ -5,8 +5,8 @@
 ### Angaben gemäß §5 TMG
 
 Carl-Johann Winkler  
-Leipziger Str. 306  
-01139 Dresden  
+Teplitzer Str. 12  
+01219 Dresden  
 Deutschland  
 
 Telefon: +49 152 22426479  
